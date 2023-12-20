@@ -1,0 +1,1 @@
+Instructions on how to submit text changes are [here](https://github.com/sqids/sqids-i18n/tree/next).

@@ -14,7 +14,7 @@ Please note:
 1. Misspelling corrections are very welcome.
 1. Phrase changes are ideally better re-phrasings, not a complete re-write of text.
 1. Please do not add or remove sentences.
-1. More PRs is better than less. Each change will be reviewed, so it's easier for us to merge them one by one.
+1. Separated PRs are better than one merged PR. Each change will be reviewed, so it's easier for us to merge them one by one.
 1. If PRs are accepted, they will **not** automatically appear on the website; however, we'll do our best to push them manually ASAP.
 1. If you'd like to request a new language, feel free to open an issue. Providing text for that language is optional.
 

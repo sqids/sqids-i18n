@@ -10,6 +10,7 @@ First of all, thank you for your interest in helping with translations!
 
 Please note:
 
+1. All work is located in the `next` branch.
 1. Misspelling corrections are very welcome.
 1. Phrase changes should be about better phrasing, not a complete re-write of text.
 1. Please do not add or remove sentences.

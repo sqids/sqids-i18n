@@ -1,6 +1,6 @@
 # [Sqids](https://sqids.org) website translations
 
-Source language is [English](languages/en.json). All available languages are located in the [languages](languages) folder.
+Source language is [English](archive/languages/en.json). All available languages are located in the [archive/languages](archive/languages) folder.
 
 ## How to Submit a Correction
 

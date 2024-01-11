@@ -19,7 +19,7 @@
 	"ttt7ff": "Kann die Benutzeranzahl preisgeben, wenn jemand das Codierungsalphabet herausfindet",
 	"tte6as": "Fragen",
 	"ttl1c7": "Spielplatz",
-	"ttgq43": "Sprache",
+	"ttgq43": "Bibliothek",
 	"ttaf1b": "Funktionen",
 	"ttz5td": "Kurze IDs aus nicht-negativen Zahlen generieren",
 	"ttncim": "Einfache Codierung und Dekodierung",
@@ -27,9 +27,9 @@
 	"tty56c": "Unterstützung für benutzerdefinierte IDs durch gemischtes Alphabet",
 	"tt6v30": "Jede Version erzeugt dieselben IDs",
 	"tthejy": "Kleine Bibliothek mit einer großzügigen Lizenz",
-	"tt0ds2": "{count} Programmiersprachen ({new} verwenden neues Design)",
+	"tt0ds2": "{count} Integrationen ({new} mit neuem Design)",
 	"tt9vmk": "Loslegen",
-	"ttpebs": "Welche Sprache verwenden Sie?",
+	"ttpebs": "Was benutzt du?",
 	"ttkph9": "Kann es nicht finden",
 	"tt1ap4": "Lass es uns wissen?",
 	"tt445i": "Beispiel",
@@ -183,5 +183,7 @@
 	"tt72cr": "Wenn das Repo keine aktiven Maintainer hat, würden wir uns freuen, Sie einzuladen, das Repo zu verwalten und offizieller Maintainer zu werden.",
 	"ttdqen": "Wenn Sie Experte in den folgenden Bereichen sind, kontaktieren Sie uns, wenn Sie die Bibliothek portieren möchten:",
 	"ttfsed": "Nicht gefunden",
-	"ttsp7q": "Andere Sprachen"
+	"ttsp7q": "Andere",
+	"tt8aj0": "Versuche:",
+	"ttfspd": "[{clickhouse}]({url1}) bietet eine eingebaute SQL-Funktion zur Erzeugung von {name} mit Standardparametern an. Die Funktion ist seit {clickhouse} [{version}]({url2}) verfügbar:"
 }

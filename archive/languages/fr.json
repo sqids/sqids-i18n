@@ -19,7 +19,7 @@
 	"ttt7ff": "Peut révéler le nombre d'utilisateurs si quelqu'un découvre l'alphabet de codage",
 	"tte6as": "FAQ",
 	"ttl1c7": "Espace de jeu",
-	"ttgq43": "Langue",
+	"ttgq43": "Bibliothèque",
 	"ttaf1b": "Fonctionnalités",
 	"ttz5td": "Générer des identifiants courts à partir de nombres non négatifs",
 	"ttncim": "Encodage et décodage faciles",
@@ -27,9 +27,9 @@
 	"tty56c": "Support des identifiants personnalisés via un alphabet mélangé",
 	"tt6v30": "Chaque version produit les mêmes identifiants",
 	"tthejy": "Petite bibliothèque avec une licence permissive",
-	"tt0ds2": "{count} langages de programmation ({new} utilisant un nouveau design)",
+	"tt0ds2": "{count} intégrations ({new} utilisant un nouveau design)",
 	"tt9vmk": "Commencer",
-	"ttpebs": "Quelle langue utilisez-vous ?",
+	"ttpebs": "Qu'est-ce que vous utilisez?",
 	"ttkph9": "Impossible de le trouver",
 	"tt1ap4": "Faites-nous savoir à ce sujet ?",
 	"tt445i": "Exemple",
@@ -183,5 +183,7 @@
 	"tt72cr": "Si le dépôt n'a pas de mainteneurs actifs, nous serions heureux de vous inviter à gérer le dépôt et à devenir un mainteneur officiel.",
 	"ttdqen": "Si vous êtes un expert dans les domaines suivants, veuillez nous contacter si vous souhaitez porter la bibliothèque :",
 	"ttfsed": "Non trouvé",
-	"ttsp7q": "Autres langues"
+	"ttsp7q": "Autres",
+	"tt8aj0": "Essayer:",
+	"ttfspd": "[{clickhouse}]({url1}) fournit une fonction SQL intégrée pour générer {name} avec des paramètres par défaut. La fonction est disponible depuis {clickhouse} [{version}]({url2}):"
 }

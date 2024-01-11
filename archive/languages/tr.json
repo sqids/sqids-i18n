@@ -19,7 +19,7 @@
 	"ttt7ff": "Kodlamayı alanbilirse kullanıcı sayısını ortaya çıkarabilir",
 	"tte6as": "SSS",
 	"ttl1c7": "Oyun Alanı",
-	"ttgq43": "Dil",
+	"ttgq43": "Kütüphane",
 	"ttaf1b": "Özellikler",
 	"ttz5td": "Negatif olmayan sayılardan kısa kimlikler oluştur",
 	"ttncim": "Kolay kodlama ve kod çözme",
@@ -27,9 +27,9 @@
 	"tty56c": "Karışık alfabe ile özel kimlikleri destekleme",
 	"tt6v30": "Her sürüm aynı kimlikleri üretir",
 	"tthejy": "Hoşgörülü lisanslı küçük kütüphane",
-	"tt0ds2": "{count} programlama dilleri ({new} yeni tasarım kullanıyor)",
+	"tt0ds2": "{count} entegrasyonlar ({new} yeni tasarım kullanarak)",
 	"tt9vmk": "Başla",
-	"ttpebs": "Hangi dili kullanıyorsunuz?",
+	"ttpebs": "Ne kullanıyorsunuz?",
 	"ttkph9": "Bulamıyorum",
 	"tt1ap4": "Bize bildirin?",
 	"tt445i": "Örnek",
@@ -183,6 +183,7 @@
 	"tt72cr": "Eğer depoda aktif bakıcı yoksa, sizin yönetmeniz ve resmi bakıcı olmanız için sizi davet etmekten mutluluk duyarız.",
 	"ttdqen": "Aşağıdaki konuda bir uzman değilseniz, kütüphaneyi taşımak istiyorsanız lütfen bize ping atın:",
 	"ttfsed": "Bulunamadı",
-	"ttsp7q": "Diğer diller",
-	"tt8aj0": "Dene:"
+	"ttsp7q": "Diğerleri",
+	"tt8aj0": "Dene:",
+	"ttfspd": "[{clickhouse}]({url1}) varsayılan parametrelerle {name} oluşturmak için yerleşik bir SQL işlevi sağlar. İşlev {clickhouse} [{version}]({url2}) sürümünden beri mevcuttur:"
 }

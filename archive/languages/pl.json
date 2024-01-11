@@ -19,7 +19,7 @@
 	"ttt7ff": "Może ujawnić liczbę użytkowników, jeśli ktoś pozna alfabet kodowania",
 	"tte6as": "FAQ",
 	"ttl1c7": "Plac zabaw",
-	"ttgq43": "Język",
+	"ttgq43": "Biblioteka",
 	"ttaf1b": "Funkcje",
 	"ttz5td": "Generuj krótkie identyfikatory na podstawie liczb nieujemnych",
 	"ttncim": "Proste kodowanie i dekodowanie",
@@ -27,9 +27,9 @@
 	"tty56c": "Wsparcie dla niestandardowych identyfikatorów za pomocą przemieszanego alfabetu",
 	"tt6v30": "Każda wersja generuje te same identyfikatory",
 	"tthejy": "Mała biblioteka z licencją pozwalającą na swobodne wykorzystanie",
-	"tt0ds2": "{count} języków programowania ({new} z nowym projektem)",
+	"tt0ds2": "{count} integracji ({new} korzystających z nowego projektu)",
 	"tt9vmk": "Zacznij",
-	"ttpebs": "Jaki język używasz?",
+	"ttpebs": "Co używasz?",
 	"ttkph9": "Nie mogę go znaleźć",
 	"tt1ap4": "Daj nam znać o tym?",
 	"tt445i": "Przykład",
@@ -183,6 +183,7 @@
 	"tt72cr": "Jeśli repozytorium nie ma aktywnych opiekunów, chętnie zaprosimy Cię do zarządzania nim i zostania oficjalnym opiekunem.",
 	"ttdqen": "Jeśli jesteś ekspertem w tych dziedzinach, daj nam znać, jeśli chcesz przenieść bibliotekę:",
 	"ttfsed": "Nie znaleziono",
-	"ttsp7q": "Inne języki",
-	"tt8aj0": "Wypróbuj:"
+	"ttsp7q": "Inne",
+	"tt8aj0": "Wypróbuj:",
+	"ttfspd": "[{clickhouse}]({url1}) oferuje wbudowaną funkcję SQL do generowania {name} z domyślnymi parametrami. Funkcja jest dostępna od wersji {clickhouse} [{version}]({url2}):"
 }

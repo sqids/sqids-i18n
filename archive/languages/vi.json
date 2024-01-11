@@ -19,7 +19,7 @@
 	"ttt7ff": "Có thể tiết lộ số lượng người dùng nếu có ai đó biết được bảng chữ cái mã hóa",
 	"tte6as": "Câu hỏi",
 	"ttl1c7": "Sân chơi",
-	"ttgq43": "Ngôn ngữ",
+	"ttgq43": "Thư viện",
 	"ttaf1b": "Tính Năng",
 	"ttz5td": "Tạo ID ngắn từ các số không âm",
 	"ttncim": "Mã hóa & giải mã dễ dàng",
@@ -27,9 +27,9 @@
 	"tty56c": "Hỗ trợ ID tùy chỉnh thông qua bảng chữ cái được xáo trộn",
 	"tt6v30": "Mỗi phiên bản tạo ra các ID giống nhau",
 	"tthejy": "Thư viện nhỏ với giấy phép linh hoạt",
-	"tt0ds2": "{count} ngôn ngữ lập trình ({new} sử dụng thiết kế mới)",
+	"tt0ds2": "{count} tích hợp ({new} sử dụng thiết kế mới)",
 	"tt9vmk": "Bắt đầu",
-	"ttpebs": "Bạn đang sử dụng ngôn ngữ gì?",
+	"ttpebs": "Bạn đang sử dụng cái gì?",
 	"ttkph9": "Không tìm thấy",
 	"tt1ap4": "Hãy cho chúng tôi biết về điều đó?",
 	"tt445i": "Ví dụ",
@@ -183,6 +183,7 @@
 	"tt72cr": "Nếu kho không có người duy trì hoạt động, chúng tôi rất vui mừng mời bạn tham gia quản lý kho và trở thành người duy trì chính thức.",
 	"ttdqen": "Nếu bạn là một chuyên gia về những điều sau, vui lòng liên hệ nếu bạn muốn chuyển đổi thư viện:",
 	"ttfsed": "Không tìm thấy",
-	"ttsp7q": "Ngôn ngữ khác",
-	"tt8aj0": "Thử:"
+	"ttsp7q": "Khác",
+	"tt8aj0": "Thử:",
+	"ttfspd": "[{clickhouse}]({url1}) cung cấp một hàm SQL tích hợp để tạo ra {name} với các tham số mặc định. Hàm này đã có từ {clickhouse} [{version}]({url2}):"
 }

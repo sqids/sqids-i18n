@@ -19,7 +19,7 @@
 	"ttt7ff": "Dapat mengungkap jumlah pengguna jika seseorang menemukan abjad pengkodean",
 	"tte6as": "FAQ",
 	"ttl1c7": "Area Bermain",
-	"ttgq43": "Bahasa",
+	"ttgq43": "Perpustakaan",
 	"ttaf1b": "Fitur",
 	"ttz5td": "Menghasilkan ID pendek dari angka non-negatif",
 	"ttncim": "Pengkodean & dekoding mudah",
@@ -27,9 +27,9 @@
 	"tty56c": "Dukungan untuk ID kustom melalui abjad yang diacak",
 	"tt6v30": "Setiap versi menghasilkan ID yang sama",
 	"tthejy": "Perpustakaan kecil dengan lisensi yang luwes",
-	"tt0ds2": "{count} bahasa pemrograman ({new} menggunakan desain baru)",
+	"tt0ds2": "{count} integrasi ({new} menggunakan desain baru)",
 	"tt9vmk": "Mulai",
-	"ttpebs": "Bahasa apa yang Anda gunakan?",
+	"ttpebs": "Apa yang sedang Anda gunakan?",
 	"ttkph9": "Tidak dapat menemukannya",
 	"tt1ap4": "Beri tahu kami tentang itu?",
 	"tt445i": "Contoh",
@@ -183,6 +183,7 @@
 	"tt72cr": "Jika repositori tidak memiliki pengelola aktif, kami akan senang untuk mengundang Anda untuk mengelola repositori tersebut dan menjadi pengelola resmi.",
 	"ttdqen": "Jika Anda adalah seorang ahli dalam hal berikut, beri tahu kami jika Anda ingin memporting perpustakaannya:",
 	"ttfsed": "Tidak ditemukan",
-	"ttsp7q": "Bahasa lain",
-	"tt8aj0": "Coba:"
+	"ttsp7q": "Lainnya",
+	"tt8aj0": "Coba:",
+	"ttfspd": "[{clickhouse}]({url1}) menyediakan fungsi SQL bawaan untuk menghasilkan {name} dengan parameter default. Fungsi ini tersedia sejak {clickhouse} [{version}]({url2}):"
 }

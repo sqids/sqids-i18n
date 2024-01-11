@@ -19,7 +19,7 @@
 	"ttt7ff": "Can reveal user count if anyone finds out the encoding alphabet",
 	"tte6as": "FAQ",
 	"ttl1c7": "Playground",
-	"ttgq43": "Language",
+	"ttgq43": "Library",
 	"ttaf1b": "Features",
 	"ttz5td": "Generate short IDs from non-negative numbers",
 	"ttncim": "Easy encoding & decoding",
@@ -27,9 +27,9 @@
 	"tty56c": "Support for custom IDs through shuffled alphabet",
 	"tt6v30": "Every version produces the same IDs",
 	"tthejy": "Small library with a permissive license",
-	"tt0ds2": "{count} programming languages ({new} using new design)",
+	"tt0ds2": "{count} integrations ({new} using new design)",
 	"tt9vmk": "Get started",
-	"ttpebs": "What language are you using?",
+	"ttpebs": "What are you using?",
 	"ttkph9": "Can't find it",
 	"tt1ap4": "Let us know about it?",
 	"tt445i": "Example",
@@ -183,5 +183,7 @@
 	"tt72cr": "If the repo has no active maintainers, we'd be happy to invite you to manage the repo and become an official maintainer.",
 	"ttdqen": "If you're an expert at the following, please ping us if you'd like to port the library:",
 	"ttfsed": "Not found",
-	"ttsp7q": "Other languages"
+	"ttsp7q": "Others",
+	"tt8aj0": "Try:",
+	"ttfspd": "[{clickhouse}]({url1}) provides a built-in SQL function for generating {name} with default parameters. The function is available since {clickhouse} [{version}]({url2}):"
 }

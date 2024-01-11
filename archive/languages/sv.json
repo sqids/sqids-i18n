@@ -19,7 +19,7 @@
 	"ttt7ff": "Kan avslöja antalet användare om någon får tag på kodningsalfabetet",
 	"tte6as": "Frågor",
 	"ttl1c7": "Lekplats",
-	"ttgq43": "Språk",
+	"ttgq43": "Bibliotek",
 	"ttaf1b": "Funktioner",
 	"ttz5td": "Generera korta ID:n från icke-negativa nummer",
 	"ttncim": "Enkel kodning och avkodning",
@@ -27,9 +27,9 @@
 	"tty56c": "Stöd för anpassade ID:n via skufflat alfabet",
 	"tt6v30": "Varje version producerar samma ID:n",
 	"tthejy": "Litet bibliotek med en tillåtande licens",
-	"tt0ds2": "{count} programmeringsspråk ({new} använder ny design)",
+	"tt0ds2": "{count} integrationer ({new} med ny design)",
 	"tt9vmk": "Kom igång",
-	"ttpebs": "Vilket språk använder du?",
+	"ttpebs": "Vad använder du?",
 	"ttkph9": "Kan inte hitta det",
 	"tt1ap4": "Låt oss veta det?",
 	"tt445i": "Exempel",
@@ -183,6 +183,7 @@
 	"tt72cr": "Om lagringsplatsen inte har några aktiva underhållare skulle vi vara glada att bjuda in dig för att hantera lagringsplatsen och bli en officiell underhållare.",
 	"ttdqen": "Om du är expert på följande, var god kontakta oss om du vill portera biblioteket:",
 	"ttfsed": "Inte hittat",
-	"ttsp7q": "Andra språk",
-	"tt8aj0": "Försök:"
+	"ttsp7q": "Andra",
+	"tt8aj0": "Försök:",
+	"ttfspd": "[{clickhouse}]({url1}) tillhandahåller en inbyggd SQL-funktion för att generera {name} med standardparametrar. Funktionen är tillgänglig sedan {clickhouse} [{version}]({url2}):"
 }

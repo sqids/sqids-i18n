@@ -19,7 +19,7 @@
 	"ttt7ff": "Može otkriti broj korisnika ako neko sazna abecedu enkodiranja",
 	"tte6as": "FAQ",
 	"ttl1c7": "Igralište",
-	"ttgq43": "Jezik",
+	"ttgq43": "Biblioteka",
 	"ttaf1b": "Funkcionalnosti",
 	"ttz5td": "Generisanje kratkih ID-ova iz ne-negativnih brojeva",
 	"ttncim": "Lako kodiranje i dekodiranje",
@@ -27,9 +27,9 @@
 	"tty56c": "Podrška za prilagođene ID-ove putem promenjenog abecede",
 	"tt6v30": "Svaka verzija proizvodi iste ID-ove",
 	"tthejy": "Mala biblioteka sa dozvolom za upotrebu",
-	"tt0ds2": "{count} programskih jezika ({new} koriste novi dizajn)",
+	"tt0ds2": "{count} integracija ({new} koristeći novi dizajn)",
 	"tt9vmk": "Počnite",
-	"ttpebs": "Na kom jeziku radite?",
+	"ttpebs": "Šta koristite?",
 	"ttkph9": "Ne možete da ga pronađete",
 	"tt1ap4": "Obavestite nas o tome?",
 	"tt445i": "Primer",
@@ -183,5 +183,7 @@
 	"tt72cr": "Ako repozitorijum nema aktivne održavaoce, bili bismo srećni da vas pozovemo da upravljate repozitorijumom i postanete zvanični održavalac.",
 	"ttdqen": "Ako ste stručnjak za sledeće, molimo vas da nas kontaktirate ako biste želeli da prenesete biblioteku:",
 	"ttfsed": "Nije pronađeno",
-	"ttsp7q": "Други језици"
+	"ttsp7q": "Ostali",
+	"tt8aj0": "Pokušaj:",
+	"ttfspd": "[{clickhouse}]({url1}) pruža ugrađenu SQL funkciju za generisanje {name} sa podrazumevanim parametrima. Funkcija je dostupna od {clickhouse} [{version}]({url2}):"
 }

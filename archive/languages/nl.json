@@ -19,7 +19,7 @@
 	"ttt7ff": "Kan het aantal gebruikers onthullen als iemand het coderingsalfabet ontdekt",
 	"tte6as": "Vragen",
 	"ttl1c7": "Speeltuin",
-	"ttgq43": "Taal",
+	"ttgq43": "Bibliotheek",
 	"ttaf1b": "Functies",
 	"ttz5td": "Genereer korte ID's van niet-negatieve getallen",
 	"ttncim": "Eenvoudig coderen en decoderen",
@@ -27,9 +27,9 @@
 	"tty56c": "Ondersteuning voor aangepaste ID's via een geschud alfabet",
 	"tt6v30": "Elke versie produceert dezelfde ID's",
 	"tthejy": "Kleine bibliotheek met een toegeeflijke licentie",
-	"tt0ds2": "{count} programmeertalen ({new} met nieuw ontwerp)",
+	"tt0ds2": "{count} integraties ({new} met nieuw ontwerp)",
 	"tt9vmk": "Aan de slag",
-	"ttpebs": "Welke taal gebruik je?",
+	"ttpebs": "Wat gebruik je?",
 	"ttkph9": "Kan het niet vinden",
 	"tt1ap4": "Laat het ons weten?",
 	"tt445i": "Voorbeeld",
@@ -183,5 +183,7 @@
 	"tt72cr": "Als de repo geen actieve beheerders heeft, nodigen we je graag uit om de repo te beheren en een officiële beheerder te worden.",
 	"ttdqen": "Als je een expert bent in de volgende dingen, geef ons dan een seintje als je de bibliotheek wilt omzetten:",
 	"ttfsed": "Niet gevonden",
-	"ttsp7q": "Andere talen"
+	"ttsp7q": "Anderen",
+	"tt8aj0": "Probeer:",
+	"ttfspd": "[{clickhouse}]({url1}) biedt een ingebouwde SQL-functie voor het genereren van {name} met standaardparameters. De functie is beschikbaar sinds {clickhouse} [{version}]({url2}):"
 }

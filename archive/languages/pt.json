@@ -19,7 +19,7 @@
 	"ttt7ff": "Pode revelar a contagem de usuários se alguém descobrir o alfabeto de codificação",
 	"tte6as": "Perguntas",
 	"ttl1c7": "Playground",
-	"ttgq43": "Idioma",
+	"ttgq43": "Biblioteca",
 	"ttaf1b": "Recursos",
 	"ttz5td": "Gerar IDs curtos a partir de números não negativos",
 	"ttncim": "Codificação e decodificação fáceis",
@@ -27,9 +27,9 @@
 	"tty56c": "Suporte para IDs personalizados através de um alfabeto embaralhado",
 	"tt6v30": "Cada versão produz os mesmos IDs",
 	"tthejy": "Biblioteca pequena com uma licença permissiva",
-	"tt0ds2": "{count} linguagens de programação ({new} usando novo design)",
+	"tt0ds2": "{count} integrações ({new} usando novo design)",
 	"tt9vmk": "Começar",
-	"ttpebs": "Qual idioma você está usando?",
+	"ttpebs": "O que você está usando?",
 	"ttkph9": "Não consegue encontrar?",
 	"tt1ap4": "Nos avise sobre isso?",
 	"tt445i": "Exemplo",
@@ -183,5 +183,7 @@
 	"tt72cr": "Se o repositório não tiver mantenedores ativos, ficaríamos felizes em convidá-lo para gerenciar o repositório e se tornar um mantenedor oficial.",
 	"ttdqen": "Se você é um especialista nas seguintes áreas, entre em contato se quiser portar a biblioteca:",
 	"ttfsed": "Não encontrado",
-	"ttsp7q": "Outros idiomas"
+	"ttsp7q": "Outros",
+	"tt8aj0": "Tentar:",
+	"ttfspd": "[{clickhouse}]({url1}) fornece uma função SQL integrada para gerar {name} com parâmetros padrão. A função está disponível desde {clickhouse} [{version}]({url2}):"
 }

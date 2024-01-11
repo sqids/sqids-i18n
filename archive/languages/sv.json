@@ -185,5 +185,5 @@
 	"ttfsed": "Inte hittat",
 	"ttsp7q": "Andra",
 	"tt8aj0": "Försök:",
-	"ttfspd": "[{clickhouse}]({url1}) tillhandahåller en inbyggd SQL-funktion för att generera {name} med standardparametrar. Funktionen är tillgänglig sedan {clickhouse} [{version}]({url2}):"
+	"ttfspd": "[{clickhouse}]({url1}) tillhandahåller inbyggda SQL-funktioner för att generera {name} med standardparametrar. Denna funktionalitet är tillgänglig sedan {clickhouse} [{version}]({url2})."
 }

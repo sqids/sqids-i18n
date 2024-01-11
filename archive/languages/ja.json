@@ -185,5 +185,5 @@
 	"ttfsed": "見つかりません",
 	"ttsp7q": "その他",
 	"tt8aj0": "試す:",
-	"ttfspd": "[{clickhouse}]({url1}) はデフォルトのパラメーターで {name} を生成するための組み込み SQL 関数を提供します。この機能は {clickhouse} のバージョン [{version}]({url2}) 以降利用可能です:"
+	"ttfspd": "[{clickhouse}]({url1}) は、デフォルトのパラメータで {name} を生成するための組み込みSQL関数を提供しています。この機能は {clickhouse} のバージョン [{version}]({url2}) から利用可能です。"
 }

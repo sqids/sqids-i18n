@@ -185,5 +185,5 @@
 	"ttfsed": "Non trouvé",
 	"ttsp7q": "Autres",
 	"tt8aj0": "Essayer:",
-	"ttfspd": "[{clickhouse}]({url1}) fournit une fonction SQL intégrée pour générer {name} avec des paramètres par défaut. La fonction est disponible depuis {clickhouse} [{version}]({url2}):"
+	"ttfspd": "[{clickhouse}]({url1}) propose des fonctions SQL intégrées pour générer {name} avec des paramètres par défaut. Cette fonctionnalité est disponible depuis {clickhouse} [{version}]({url2})."
 }

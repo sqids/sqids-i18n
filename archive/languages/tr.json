@@ -185,5 +185,5 @@
 	"ttfsed": "Bulunamadı",
 	"ttsp7q": "Diğerleri",
 	"tt8aj0": "Dene:",
-	"ttfspd": "[{clickhouse}]({url1}) varsayılan parametrelerle {name} oluşturmak için yerleşik bir SQL işlevi sağlar. İşlev {clickhouse} [{version}]({url2}) sürümünden beri mevcuttur:"
+	"ttfspd": "[{clickhouse}]({url1}) varsayılan parametrelerle {name} üretmek için yerleşik SQL işlevleri sağlar. Bu işlevsellik, {clickhouse} [{version}]({url2}) sürümü ile kullanılmaktadır."
 }

@@ -185,5 +185,5 @@
 	"ttfsed": "Nije pronađeno",
 	"ttsp7q": "Ostali",
 	"tt8aj0": "Pokušaj:",
-	"ttfspd": "[{clickhouse}]({url1}) pruža ugrađenu SQL funkciju za generisanje {name} sa podrazumevanim parametrima. Funkcija je dostupna od {clickhouse} [{version}]({url2}):"
+	"ttfspd": "[{clickhouse}]({url1}) pruža ugrađene SQL funkcije za generisanje {name} sa podrazumevanim parametrima. Ova funkcionalnost je dostupna od {clickhouse} [{version}]({url2})."
 }

@@ -185,5 +185,5 @@
 	"ttfsed": "Không tìm thấy",
 	"ttsp7q": "Khác",
 	"tt8aj0": "Thử:",
-	"ttfspd": "[{clickhouse}]({url1}) cung cấp một hàm SQL tích hợp để tạo ra {name} với các tham số mặc định. Hàm này đã có từ {clickhouse} [{version}]({url2}):"
+	"ttfspd": "[{clickhouse}]({url1}) cung cấp các hàm SQL tích hợp để tạo {name} với các tham số mặc định. Chức năng này đã có từ phiên bản {clickhouse} [{version}]({url2})."
 }

@@ -185,5 +185,5 @@
 	"ttfsed": "未找到",
 	"ttsp7q": "其他",
 	"tt8aj0": "試試看：",
-	"ttfspd": "[{clickhouse}]({url1}) 提供了一個內置的 SQL 函數，用於生成具有默認參數的 {name}。此函數自 {clickhouse} [{version}]({url2}) 版本開始提供："
+	"ttfspd": "[{clickhouse}]({url1}) 提供了內建的SQL函數，用於使用默認參數生成 {name}。此功能自 {clickhouse} [{version}]({url2}) 版本開始提供。"
 }
